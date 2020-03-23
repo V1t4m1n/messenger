@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ChatPlate</string>
+    <string name="authButton">Login</string>
+    <string name="hintLoginEditText">Login</string>
+    <string name="hintPasswordEditText">Password</string>
+    <string name="forgotPasswordTextView">Forgot password?</string>
+    <string name="registerTextView">Registration</string>
+    <string name="logoString">Plate Messenger</string>
+    <string name="name">Name</string>
+    <string name="you_message">You message!</string>
+    <string name="enter_you_message">Enter you message</string>
+</resources>
